@@ -1,0 +1,18 @@
+﻿生成启动时间为 2017/7/31 23:15:21。
+     1>项目“F:\C_Primer_Plus\Chapter4\Chapter4\Chapter4.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Chapter4.c
+         Chapter4.c
+     1>Chapter4.c(83): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>Chapter4.c(145): warning C4305: “初始化”: 从“double”到“float”截断
+     1>Chapter4.c(175): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\C_Primer_Plus\Chapter4\Release\Chapter4.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\C_Primer_Plus\Chapter4\Release\Chapter4.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\C_Primer_Plus\Chapter4\Release\Chapter4.lib" /MACHINE:X86 /SAFESEH Release\Chapter4.obj
+         正在生成代码
+         已完成代码的生成
+         Chapter4.vcxproj -> F:\C_Primer_Plus\Chapter4\Release\Chapter4.exe
+     1>已完成生成项目“F:\C_Primer_Plus\Chapter4\Chapter4\Chapter4.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.57
