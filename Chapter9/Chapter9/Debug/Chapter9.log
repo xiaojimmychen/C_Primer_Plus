@@ -1,0 +1,6 @@
+﻿  Chapter9.c
+d:\c_primer_plus\chapter9\chapter9\chapter9.c(373): warning C4018: “>=”: 有符号/无符号不匹配
+d:\c_primer_plus\chapter9\chapter9\chapter9.c(301): warning C4715: “pow_rewrite”: 不是所有的控件路径都返回值
+d:\c_primer_plus\chapter9\chapter9\chapter9.c(345): warning C4715: “pow_recursive”: 不是所有的控件路径都返回值
+  Chapter9.vcxproj -> D:\C_Primer_Plus\Chapter9\Debug\Chapter9.exe
+  Chapter9.vcxproj -> D:\C_Primer_Plus\Chapter9\Debug\Chapter9.pdb (Partial PDB)
