@@ -1,0 +1,25 @@
+﻿  Chapter10.c
+d:\c_primer_plus\chapter10\chapter10\chapter10.c(14): warning C4305: “初始化”: 从“double”到“const float”截断
+d:\c_primer_plus\chapter10\chapter10\chapter10.c(15): warning C4305: “初始化”: 从“double”到“const float”截断
+d:\c_primer_plus\chapter10\chapter10\chapter10.c(16): warning C4305: “初始化”: 从“double”到“const float”截断
+d:\c_primer_plus\chapter10\chapter10\chapter10.c(17): warning C4305: “初始化”: 从“double”到“const float”截断
+d:\c_primer_plus\chapter10\chapter10\chapter10.c(18): warning C4305: “初始化”: 从“double”到“const float”截断
+d:\c_primer_plus\chapter10\chapter10\chapter10.c(54): warning C4018: “<”: 有符号/无符号不匹配
+d:\c_primer_plus\chapter10\chapter10\chapter10.c(63): warning C4018: “<”: 有符号/无符号不匹配
+d:\c_primer_plus\chapter10\chapter10\chapter10.c(115): warning C4018: “<”: 有符号/无符号不匹配
+d:\c_primer_plus\chapter10\chapter10\chapter10.c(141): warning C4018: “<”: 有符号/无符号不匹配
+d:\c_primer_plus\chapter10\chapter10\chapter10.c(171): warning C4018: “<”: 有符号/无符号不匹配
+d:\c_primer_plus\chapter10\chapter10\chapter10.c(200): warning C4018: “<”: 有符号/无符号不匹配
+d:\c_primer_plus\chapter10\chapter10\chapter10.c(247): warning C4090: “函数”: 不同的“const”限定符
+d:\c_primer_plus\chapter10\chapter10\chapter10.c(280): warning C4018: “<”: 有符号/无符号不匹配
+d:\c_primer_plus\chapter10\chapter10\chapter10.c(291): warning C4018: “<”: 有符号/无符号不匹配
+d:\c_primer_plus\chapter10\chapter10\chapter10.c(320): warning C4018: “<”: 有符号/无符号不匹配
+d:\c_primer_plus\chapter10\chapter10\chapter10.c(359): warning C4018: “<”: 有符号/无符号不匹配
+d:\c_primer_plus\chapter10\chapter10\chapter10.c(371): warning C4018: “<”: 有符号/无符号不匹配
+d:\c_primer_plus\chapter10\chapter10\chapter10.c(408): warning C4018: “<”: 有符号/无符号不匹配
+d:\c_primer_plus\chapter10\chapter10\chapter10.c(421): warning C4018: “<”: 有符号/无符号不匹配
+d:\c_primer_plus\chapter10\chapter10\chapter10.c(431): warning C4018: “<”: 有符号/无符号不匹配
+d:\c_primer_plus\chapter10\chapter10\chapter10.c(443): warning C4018: “<”: 有符号/无符号不匹配
+d:\c_primer_plus\chapter10\chapter10\chapter10.c(457): warning C4018: “<”: 有符号/无符号不匹配
+  Chapter10.vcxproj -> D:\C_Primer_Plus\Chapter10\Debug\Chapter10.exe
+  Chapter10.vcxproj -> D:\C_Primer_Plus\Chapter10\Debug\Chapter10.pdb (Partial PDB)
