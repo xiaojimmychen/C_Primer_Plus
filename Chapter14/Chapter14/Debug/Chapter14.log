@@ -1,0 +1,5 @@
+﻿  Chapter14.c
+d:\c_primer_plus\chapter14\chapter14\chapter14.c(353): warning C4244: “初始化”: 从“double”转换到“char”，可能丢失数据
+d:\c_primer_plus\chapter14\chapter14\chapter14.c(413): warning C4244: “初始化”: 从“double”转换到“char”，可能丢失数据
+  Chapter14.vcxproj -> D:\C_Primer_Plus\Chapter14\Debug\Chapter14.exe
+  Chapter14.vcxproj -> D:\C_Primer_Plus\Chapter14\Debug\Chapter14.pdb (Partial PDB)
