@@ -1,0 +1,7 @@
+﻿  Chapter15.c
+d:\c_primer_plus\chapter15\chapter15\chapter15.c(301): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“unsigned char *”
+  d:\c_primer_plus\chapter15\chapter15\chapter15.c(301): note: 请考虑在格式字符串中使用“%hhd”
+d:\c_primer_plus\chapter15\chapter15\chapter15.c(310): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“unsigned char *”
+  d:\c_primer_plus\chapter15\chapter15\chapter15.c(310): note: 请考虑在格式字符串中使用“%hhd”
+  Chapter15.vcxproj -> D:\C_Primer_Plus\Chapter15\Debug\Chapter15.exe
+  Chapter15.vcxproj -> D:\C_Primer_Plus\Chapter15\Debug\Chapter15.pdb (Partial PDB)

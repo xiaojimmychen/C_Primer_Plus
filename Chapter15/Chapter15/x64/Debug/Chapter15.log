@@ -1,0 +1,5 @@
+﻿  Chapter15.c
+d:\c_primer_plus\chapter15\chapter15\chapter15.c(13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\c_primer_plus\chapter15\chapter15\chapter15.c(28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Chapter15.vcxproj -> D:\C_Primer_Plus\Chapter15\x64\Debug\Chapter15.exe
+  Chapter15.vcxproj -> D:\C_Primer_Plus\Chapter15\x64\Debug\Chapter15.pdb (Partial PDB)
